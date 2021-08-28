@@ -10,4 +10,4 @@ Trackes prices for a desired product on Amazon and sends you a mail if prices ar
 - Run this program on cloud to automate it
 
 ## Result
-![alt text](example.PNG)
+![alt text](test.PNG)
